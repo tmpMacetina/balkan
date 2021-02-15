@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/balkan/static/css/main.b51fdb11.chunk.css",
+    "main.css": "/balkan/static/css/main.696d006e.chunk.css",
     "main.js": "/balkan/static/js/main.2e1f6e35.chunk.js",
     "main.js.map": "/balkan/static/js/main.2e1f6e35.chunk.js.map",
     "runtime-main.js": "/balkan/static/js/runtime-main.771516eb.js",
@@ -10,14 +10,14 @@
     "static/js/3.8749023d.chunk.js": "/balkan/static/js/3.8749023d.chunk.js",
     "static/js/3.8749023d.chunk.js.map": "/balkan/static/js/3.8749023d.chunk.js.map",
     "index.html": "/balkan/index.html",
-    "static/css/main.b51fdb11.chunk.css.map": "/balkan/static/css/main.b51fdb11.chunk.css.map",
+    "static/css/main.696d006e.chunk.css.map": "/balkan/static/css/main.696d006e.chunk.css.map",
     "static/js/2.0c19fc68.chunk.js.LICENSE.txt": "/balkan/static/js/2.0c19fc68.chunk.js.LICENSE.txt",
     "static/media/WBalkans.515828ff.png": "/balkan/static/media/WBalkans.515828ff.png"
   },
   "entrypoints": [
     "static/js/runtime-main.771516eb.js",
     "static/js/2.0c19fc68.chunk.js",
-    "static/css/main.b51fdb11.chunk.css",
+    "static/css/main.696d006e.chunk.css",
     "static/js/main.2e1f6e35.chunk.js"
   ]
 }
